@@ -12,9 +12,9 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,js,react,nextjs,redux,reactquery,mobx,tailwind,materialui,antdesign,sass&theme=dark)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,redux,tailwind,materialui,bootstrap,sass&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=storybook,figma,vite,webpack,git,vercel,nodejs,mongodb,postman,cursor,claude&theme=dark)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=figma,vite,webpack,babel,git,vercel,nodejs,mongodb,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
